@@ -1,0 +1,6 @@
+C:\Users\Paul Funyun\Desktop\foundations_of_c#_.net\homework\foundations_of_C_.net\assignment#3\assignment3\bin\Debug\assignment3.exe.config
+C:\Users\Paul Funyun\Desktop\foundations_of_c#_.net\homework\foundations_of_C_.net\assignment#3\assignment3\bin\Debug\assignment3.exe
+C:\Users\Paul Funyun\Desktop\foundations_of_c#_.net\homework\foundations_of_C_.net\assignment#3\assignment3\bin\Debug\assignment3.pdb
+C:\Users\Paul Funyun\Desktop\foundations_of_c#_.net\homework\foundations_of_C_.net\assignment#3\assignment3\obj\Debug\assignment3.exe
+C:\Users\Paul Funyun\Desktop\foundations_of_c#_.net\homework\foundations_of_C_.net\assignment#3\assignment3\obj\Debug\assignment3.pdb
+C:\Users\Paul Funyun\Desktop\foundations_of_c#_.net\homework\foundations_of_C_.net\assignment#3\assignment3\obj\Debug\assignment3.csprojResolveAssemblyReference.cache
