@@ -1,0 +1,6 @@
+F:\C#\foundations of Programming\homework\assignment4-3\assignment4-3\bin\Debug\assignment4-3.exe.config
+F:\C#\foundations of Programming\homework\assignment4-3\assignment4-3\bin\Debug\assignment4-3.exe
+F:\C#\foundations of Programming\homework\assignment4-3\assignment4-3\bin\Debug\assignment4-3.pdb
+F:\C#\foundations of Programming\homework\assignment4-3\assignment4-3\obj\Debug\assignment4-3.csprojResolveAssemblyReference.cache
+F:\C#\foundations of Programming\homework\assignment4-3\assignment4-3\obj\Debug\assignment4-3.exe
+F:\C#\foundations of Programming\homework\assignment4-3\assignment4-3\obj\Debug\assignment4-3.pdb
