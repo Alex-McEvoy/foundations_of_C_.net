@@ -1,0 +1,5 @@
+F:\C#\foundations of Programming\assignment6\myAssignment6\myAssignment6\bin\Debug\myAssignment6.exe.config
+F:\C#\foundations of Programming\assignment6\myAssignment6\myAssignment6\bin\Debug\myAssignment6.exe
+F:\C#\foundations of Programming\assignment6\myAssignment6\myAssignment6\bin\Debug\myAssignment6.pdb
+F:\C#\foundations of Programming\assignment6\myAssignment6\myAssignment6\obj\Debug\myAssignment6.exe
+F:\C#\foundations of Programming\assignment6\myAssignment6\myAssignment6\obj\Debug\myAssignment6.pdb
