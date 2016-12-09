@@ -1,0 +1,6 @@
+F:\C#\foundations of Programming\Real final project\Final project\Final project\bin\Debug\Final project.exe.config
+F:\C#\foundations of Programming\Real final project\Final project\Final project\obj\Debug\Final project.csprojResolveAssemblyReference.cache
+F:\C#\foundations of Programming\Real final project\Final project\Final project\bin\Debug\Final project.exe
+F:\C#\foundations of Programming\Real final project\Final project\Final project\bin\Debug\Final project.pdb
+F:\C#\foundations of Programming\Real final project\Final project\Final project\obj\Debug\Final project.exe
+F:\C#\foundations of Programming\Real final project\Final project\Final project\obj\Debug\Final project.pdb
